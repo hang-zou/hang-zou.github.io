@@ -10,5 +10,35 @@
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
+    <item>
+      <title>Decision-Oriented Communications: Application to Energy-Efficient Resource Allocation</title>
+      <link>https://hang-zou.github.io/publication/hz-wincom-18/</link>
+      <pubDate>Wed, 17 Oct 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://hang-zou.github.io/publication/hz-wincom-18/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.l2s.centralesupelec.fr/sites/l2s.centralesupelec.fr/files/users/zou_han/hz-wincom-18.pdf&#34;&gt;Preprint is available here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Task Oriented Channel State Information Quantization</title>
+      <link>https://hang-zou.github.io/publication/hz-pimrc-2018/</link>
+      <pubDate>Fri, 07 Sep 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://hang-zou.github.io/publication/hz-pimrc-2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.l2s.centralesupelec.fr/sites/l2s.centralesupelec.fr/files/users/zou_han/hz-pimrc-18.pdf&#34;&gt;Preprint is available here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Optimal Opponent Selection for Distributed Multi-Agent Self-Classification</title>
+      <link>https://hang-zou.github.io/publication/hz-globecom-2018/</link>
+      <pubDate>Mon, 06 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://hang-zou.github.io/publication/hz-globecom-2018/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://www.l2s.centralesupelec.fr/sites/l2s.centralesupelec.fr/files/users/zou_han/hz-globecom-18.pdf&#34;&gt;Preprint is available here.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
