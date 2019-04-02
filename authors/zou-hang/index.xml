@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hang&#39;s Page on Hang&#39;s Page</title>
-    <link>http://hang-zou.github.io/</link>
-    <description>Recent content in Hang&#39;s Page on Hang&#39;s Page</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <title>Zou Hang on Hang&#39;s Page</title>
+    <link>http://hang-zou.github.io/authors/zou-hang/</link>
+    <description>Recent content in Zou Hang on Hang&#39;s Page</description>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://hang-zou.github.io/authors/zou-hang/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Optimal Opponent Selection for Distributed Multi-Agent Self-Classification</title>
@@ -16,15 +18,6 @@
       <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
       
       <guid>http://hang-zou.github.io/publication/hang-optimal-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hang-GLOBECOM-2018</title>
-      <link>http://hang-zou.github.io/publication/hang-zou-hang-globecom-2018-2018/</link>
-      <pubDate>Sat, 01 Dec 2018 00:00:00 +0100</pubDate>
-      
-      <guid>http://hang-zou.github.io/publication/hang-zou-hang-globecom-2018-2018/</guid>
       <description></description>
     </item>
     
@@ -38,29 +31,11 @@
     </item>
     
     <item>
-      <title>hang-WINCOM-2018</title>
-      <link>http://hang-zou.github.io/publication/hang-zou-hang-wincom-2018-2018/</link>
-      <pubDate>Mon, 01 Oct 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://hang-zou.github.io/publication/hang-zou-hang-wincom-2018-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Task Oriented Channel State Information Quantization</title>
       <link>http://hang-zou.github.io/publication/hang-task-2018/</link>
       <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
       
       <guid>http://hang-zou.github.io/publication/hang-task-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hang-PIMRC-2018</title>
-      <link>http://hang-zou.github.io/publication/hang-zou-hang-pimrc-2018-2018/</link>
-      <pubDate>Sat, 01 Sep 2018 00:00:00 +0200</pubDate>
-      
-      <guid>http://hang-zou.github.io/publication/hang-zou-hang-pimrc-2018-2018/</guid>
       <description></description>
     </item>
     
